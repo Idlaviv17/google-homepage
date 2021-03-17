@@ -1,5 +1,19 @@
+html {
+    height: 100%;
+}
+
 body {
     font-family: arial,sans-serif;
+    height: 99%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+#main {
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 ul {
@@ -17,6 +31,10 @@ li {
     padding: 8px;
 }
 
+li:hover {
+    text-decoration: underline;
+}
+
 li.left {
     float: left;
 }
@@ -25,15 +43,11 @@ li.right {
     float: right;
 }
 
-li.center {
+li.center-top {
     margin-top: 6px;
 }
 
-li:hover {
-    text-decoration: underline;
-}
-
-#sign-in {
+li.sign-in {
     display: inline-block;
     color: white;
     background-color: #4285f4;
