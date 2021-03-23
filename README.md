@@ -1,3 +1,9 @@
-This is a clone of the Google homepage only using HTML and CSS.
+# Google Homepage
 
-This project was made based on the Odin Project's curriculum.
+This is a simple clone of the google homepage using only CSS and HTML. It only imitates its appearance.
+
+# What I Learned
+
+* The core logic of how HTML and CSS work
+* DIfferent styles of how to place elements using CSS
+* Make a responsive design using different tools from CSS
