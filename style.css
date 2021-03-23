@@ -51,6 +51,7 @@ li {
 li:hover {
     text-decoration: underline;
     color: black !important;
+    cursor: pointer;
 }
 
 li.left {
@@ -97,7 +98,7 @@ form {
 }
 
 form:hover {
-    
+    box-shadow: 0 0 11px rgba(33,33,33,.2);
 }
 
 .form-content {
@@ -129,9 +130,3 @@ input {
     text-align: center;
     cursor: pointer;
 }
-
-/*
-Add cursor:pointer
-Add hover to the form and the apps icon
-Maybe another hover for the buttons
-*/
