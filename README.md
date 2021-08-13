@@ -6,4 +6,4 @@ This is a simple clone of the google homepage using only CSS and HTML. It only i
 
 * The core logic of how HTML and CSS work
 * DIfferent styles of how to place elements using CSS
-* Make a responsive design using different tools from CSS
+* Responsive design using different tools from CSS
